@@ -36,6 +36,16 @@ html{
 .color-dark-blue {
 	background-color: #3d5a80 !important; 
 }
+.color-bluesome{
+	background-color: lightblue !important;
+}
+
+.color-bluemore{
+	background-color: powderblue !important;
+}
+
+
+
 .text-white-2 {
 	color: #e0fbfc !important;
 }
