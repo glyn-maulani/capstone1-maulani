@@ -1,0 +1,112 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html{
+	scroll-behavior: smooth;
+
+}
+
+.text-roboto {
+	font-family: "Roboto", sans-serif !important;
+}
+
+.text-montserrat {
+	font-family: "Montserrat", sans-serif !important;
+}
+
+.color-white {
+	background-color: #e0fbfc !important;
+}
+.color-orange {
+	background-color: #ee6c4d !important;
+}
+.color-black-dark {
+	background-color: #293241 !important;
+}
+.color-skyblue {
+	background-color: #98c1d9 !important;
+}
+.color-dark-blue {
+	background-color: #3d5a80 !important; 
+}
+.text-white-2 {
+	color: #e0fbfc !important;
+}
+.text-orange {
+	color: #ee6c4d !important;
+}
+.text-black-dark {
+	color: #293241 !important;
+}
+.text-skyblue {
+	color: #98c1d9 !important;
+}
+.text-dark-blue {
+	color: #3d5a80 !important; 
+}
+
+.back-image {
+	width: 100%;
+	height: 100vh;
+	background-image: url('../images/back-image.jpg') !important;
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.front-bg {
+	background-color: black;
+	position: absolute;
+	opacity: 10%;
+	width: 100%;
+	height: 100%;
+}
+
+.btn-down-icon {
+	/*background: url(https://www.nxworld.net/example/css-scroll-down-button/bg03.jpg) center center / cover no-repeat;*/
+	
+	background-image: url('../images/logo-down.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+.image-contain {
+	width: auto;
+	height: auto;
+	object-fit: contain;
+}
+
+.img-pic {
+	height: 250px;
+	widows: 250px;
+
+	border-radius: 50%;
+}
+
+.paragraph-center {
+	margin-left: 25%; margin-right: 25%; margin-bottom: 50px; margin-top: 25px;
+
+}
+
+.big-text {
+	font-size:  5em;
+}
+.mid-text {
+	font-size:  1.5em;
+}
+
+.bg-jpg {
+	background-image: url("../images/bg.jpg") !important;
+	background-size: cover;
+}
+
+.w-100percent {
+	width: 100%;
+}
+
