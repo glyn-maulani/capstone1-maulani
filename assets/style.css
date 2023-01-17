@@ -16,6 +16,10 @@ html{
 .text-montserrat {
 	font-family: "Montserrat", sans-serif !important;
 }
+.text-lora {
+	font-family: "Lora", sans-serif !important;
+	letter-spacing: 5px;
+}
 
 .color-white {
 	background-color: #e0fbfc !important;
